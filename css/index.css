@@ -2,3 +2,27 @@
 /* *** Estilos SOLO para index.html *** */
 /* *********************************** */
 
+
+header{
+    display: flex;
+    justify-content: space-between;
+
+}
+nav{
+    position: fixed;
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    background-color: black;
+    
+}
+a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+h1{
+    padding-top: 30px;
+}
+
+
